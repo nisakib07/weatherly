@@ -4,7 +4,7 @@ body {
   padding: 0;
   background-image: url("/assets/9017480.jpg");
   background-repeat: no-repeat;
-  /* background-size: cover; */
+  background-size: cover;
 }
 
 .weather-container {
